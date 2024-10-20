@@ -15,7 +15,12 @@
 
 ## 📸 Aperçu
 
-![Aperçu de BurgerCode]([https://lien_vers_capture_d_ecran.pn](https://thomashoudard.com/wp-content/uploads/2024/06/Capture.png)g)
+<a href="https://thomashoudard.com">
+  <img src="https://thomashoudard.com/wp-content/uploads/2024/06/Capture.png" alt="Aperçu de l'application" width="500"/>
+</a>
+<a href="https://thomashoudard.com">
+  <img src="https://thomashoudard.com/wp-content/uploads/2024/06/Capture-1-1024x705.png" alt="Aperçu de l'application" width="500"/>
+</a>
 
 ## ⚙️ Installation
 
@@ -34,6 +39,6 @@
 5. Ouvrez l'index via votre navigateur pour commencer à utiliser l'application.
 
 ## 🌱 Développement futur
-Intégration d'un module de paiement en ligne.
-Optimisation mobile pour une expérience fluide sur tous les appareils.
-Ajout de statistiques sur les ventes et les commandes.
+- Intégration d'un module de paiement en ligne.
+- Optimisation mobile pour une expérience fluide sur tous les appareils.
+- Ajout de statistiques sur les ventes et les commandes.
