@@ -16,10 +16,10 @@
 ## 📸 Aperçu
 
 <a href="https://thomashoudard.com">
-  <img src="https://thomashoudard.com/wp-content/uploads/2024/06/Capture.png" alt="Aperçu de l'application" width="500"/>
+  <img src="https://thomashoudard.com/wp-content/uploads/2024/06/Capture.png" alt="Aperçu de l'application" width="400"/>
 </a>
 <a href="https://thomashoudard.com">
-  <img src="https://thomashoudard.com/wp-content/uploads/2024/06/Capture-1-1024x705.png" alt="Aperçu de l'application" width="500"/>
+  <img src="https://thomashoudard.com/wp-content/uploads/2024/06/Capture-1-1024x705.png" alt="Aperçu de l'application" width="400"/>
 </a>
 
 ## ⚙️ Installation
